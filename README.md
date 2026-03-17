@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=200&section=header&text=Hi,%20guys.%20I'm%20Alice%20Barros&fontSize=50&animation=fadeIn&fontAlignY=35&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=200&section=header&text=Hi%20there,%20I'm%20Alice%20Barros&fontSize=50&animation=fadeIn&fontAlignY=35&fontColor=FFFFFF" />
 
   <h3>I'm Information Systems student focused on software development </h3>
 
@@ -32,7 +32,7 @@
 </p>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aliceb404&show_icons=true&theme=dark&title_color=9370DB&icon_color=9370DB&text_color=ffffff&bg_color=0d1117&border_color=9370DB&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aliceb404&show_icons=true&theme=dark&title_color=9370DB&icon_color=9370DB&text_color=ffffff&bg_color=0d1117&border_color=9370DB&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs"/>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliceb404&layout=compact&theme=dark&title_color=9370DB&text_color=ffffff&bg_color=0d1117&border_color=9370DB"/>
 </div>

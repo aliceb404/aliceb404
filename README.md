@@ -10,13 +10,13 @@
 
 ### Social:
 <p align="left">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BBWn6Ha0jSFK5SuGLFXT6%2Bw%3D%3D" target="_blank">
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BBWn6Ha0jSFK5SuGLFXT6%2Bw%3D%3D" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/linlynx.x" target="_blank">
+  <a href="https://www.instagram.com/lilynx.x" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-9370DB?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://discord.gg/llilynx" target="_blank">
+  <a href="https://discord.com/users/llilynx" target="_blank">
     <img src="https://img.shields.io/badge/Discord-9370DB?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>

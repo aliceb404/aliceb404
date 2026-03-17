@@ -1,16 +1,44 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=200&section=header&text=Hi,%20guys.%20I'm%20Alice%20Barros&fontSize=50&animation=fadeIn&fontAlignY=35&fontColor=FFFFFF" />
 
-<!--
-**aliceb404/aliceb404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h3>I'm Information Systems student focused on software development </h3>
 
-Here are some ideas to get you started:
+  <p><i>"Status: 404 - Coffee not found. Searching for solutions..."</i> </p>
+  
+  <br/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Social:
+<p align="left">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BBWn6Ha0jSFK5SuGLFXT6%2Bw%3D%3D" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/linlynx.x" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-9370DB?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://discord.gg/llilynx" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-9370DB?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+</p>
+
+### Tech Stack:
+<p align="left">
+  <img src="https://img.shields.io/badge/C-9370DB?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C%2B%2B-9370DB?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Python-9370DB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-9370DB?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-9370DB?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-9370DB?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</p>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aliceb404&show_icons=true&theme=dark&title_color=9370DB&icon_color=9370DB&text_color=ffffff&bg_color=0d1117&border_color=9370DB&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliceb404&layout=compact&theme=dark&title_color=9370DB&text_color=ffffff&bg_color=0d1117&border_color=9370DB"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliceb404&theme=dark&background=0d1117&border=9370DB&fire=9370DB&ring=9370DB&curr_streak_num=9370DB&side_nums=ffffff&side_labels=ffffff&dates=ffffff" />
+</div>
